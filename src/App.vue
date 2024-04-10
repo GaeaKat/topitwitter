@@ -13,8 +13,9 @@ onMounted(() => {
   <div>
     <h1>{{ t("title") }}</h1>
     <p class="main">{{ t("description") }}</p>
-    <a href="https://github.com/sevenc-nanashi/roblotwitter">{{ t("link") }}</a><br />
-    <a href="https://sevenc7c.com" class="author">{{ t("author") }}</a>
+    <a href="https://github.com/GaeaKat/topitwitter/">{{ t("link") }}</a><br />
+    <a href="https://katcodes.dev" class="author">{{ t("author") }}</a>
+    <a href="https://sevenc7c.com" class="author">{{ t("original_author") }}</a>
   </div>
 </template>
 
